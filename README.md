@@ -1,0 +1,1 @@
+This program is based on arduino uno,ultrasoinc sensor and waterpump dc motor. the above metion code is about the project of automatic home sanitizer machine. i have done this project in lockdown so that i have  earn 20k also by selling the product. 
